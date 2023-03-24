@@ -1,12 +1,3 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke
-[submodule "themes/paige"]
-	path = themes/paige
-	url = https://github.com/willfaught/paige
-[submodule "themes/jane"]
-	path = themes/jane
-	url = https://github.com/xianmin/hugo-theme-jane.git
 [submodule "themes/jane-cgp"]
 	path = themes/jane-cgp
 	url = git@github.com:CartesianGP/hugo-theme-jane-cgp.git
