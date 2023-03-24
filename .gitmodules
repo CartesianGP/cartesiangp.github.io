@@ -9,4 +9,4 @@
 	url = https://github.com/xianmin/hugo-theme-jane.git
 [submodule "themes/jane-cgp"]
 	path = themes/jane-cgp
-	url = https://github.com/CartesianGP/hugo-theme-jane-cgp.git
+	url = git@github.com:CartesianGP/hugo-theme-jane-cgp.git
